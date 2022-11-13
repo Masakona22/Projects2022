@@ -1,8 +1,8 @@
 # Projects2022
 
 This project was developed as a final year group project alongside 3 other students namely:
-Akonaho Lavhelani
-Hataluli Randima
+Akonaho Lavhelani,
+Hataluli Randima,
 Mukhethwa Charles Mukwevho
 
 ## Problem statement
