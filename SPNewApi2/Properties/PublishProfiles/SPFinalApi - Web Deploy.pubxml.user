@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAa51PffZqKkyhHzbrP6g9OAAAAAACAAAAAAAQZgAAAAEAACAAAACAchB6wlBCb/oqSf9PxhN1T0cQDeSy0obX397Hif1JmgAAAAAOgAAAAAIAACAAAAC5nregLQzOloIednymI5EGUfzGndRbCFuifdNqQFhC3oAAAAAXOd6jGVB7scVE8e6VodfStdJJodSMKCr2tVDyJu2GvJP2aTM0j3fcj9V7zS37Ske9dcu93ROEEQf8Cx0DiQEu7/k09NGC2rYXtQuYFiLzb5KSnR4QbtXhPT54O+vTUI58BMXzls1TTPOlNsDgqM1nzS+5l0Fx2eWuqvEVbj11pUAAAACQkvrJeevt48eKSygLTWgbwhxQLeopo701g3bamBp3RXrak0bIc75FsYtBUAbgCuS9kKZPDUK8+77CN8xp5M3V</EncryptedPassword>
+    <History>True|2022-10-04T09:52:04.2227862Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL8001.site4now.net%3bInitial Catalog=db_a8d94e_frenkie%3bUser Id=db_a8d94e_frenkie_admin%3bPassword=Frenkie21</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
