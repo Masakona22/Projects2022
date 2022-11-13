@@ -1,9 +1,17 @@
-# Projects2022 : The project that I developed for my final year with 3 other team members
+# Projects2022
 
-Contents:
+This project was developed as a final year group project alongside 3 other students namely:
+Akonaho Lavhelani
+Hataluli Randima
+Mukhethwa Charles Mukwevho
 
-# 1. API developed using ASP.Net Core
+## Problem statement
+Tradesmen who focus on manual labour struggle to get clients, and have to spend a lot of energy to get clients. For clients, they may not know any good, reliable manual labour workers in their local area
 
-# 2. Web App developed in Angular
+## Solution
+That is where Service Plug, our project comes in. It bridges the gap of access between tradesmen and clients, as clients would be able to get tradesmen with ease through the use of our platform.
 
-# 3. Mobile App developed in Xamarin
+## Technologies used
+1. Mobile -> Xamarin Forms
+2. API -> ASP.Net 
+3. Web App -> Angular
